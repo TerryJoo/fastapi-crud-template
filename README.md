@@ -21,7 +21,7 @@ router = create_crud_router(
     UserService)
 ```
 
-#### User Model
+#### User Service
 ```python3
 from crud.crud_service import CRUDService
 from user.models import User

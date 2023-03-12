@@ -1,4 +1,7 @@
 # CRUD Framework for fastapi
+You just design DB and API schema.
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/53505355/224520983-1ec4a301-a7f1-41da-a346-23a8a5a08984.png">
+
 ```python3
 from crud.crud_router import create_crud_router
 from crud.mapper import CRUDEntitySchemaMapper
